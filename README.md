@@ -13,7 +13,15 @@
 
 You can try the live demo on [Streamlit Cloud](https://llm-based-text-summarizer.streamlit.app/).
 
-## Screenshots
+## LLM Models used
+We used below Hugging Face open source models which are specifice to text summarization.
+1. facebook/bart-large-cnn
+2. meta-llama/Llama-3.1-405B
+3. google/pegasus-xsum
+4. distilbart-cnn-12-6
+5. bart-large-cnn-samsum
+6. google/pegasus-cnn_dailymail
+7. T5 transformer Model
 
 
 
