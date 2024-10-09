@@ -8,6 +8,8 @@
 - Detect and handle multiple languages
 - Translate summarized text to English
 - Chat-like prompt system for refining summaries
+- User can select the sigle or multiple models according to choice
+- Display tokens used and word count of summary generated
 
 ## Demo
 
