@@ -17,7 +17,7 @@
 
 ## Demo
 
-You can try the live demo on [Try SummariX](https://summarix.streamlit.app/)).
+You can try the live demo on [Try SummariX](https://summarix.streamlit.app/).
 
 ## LLM Models used
 We used below Hugging Face open source models which are specifice to text summarization.
