@@ -11,6 +11,10 @@
 - User can select the sigle or multiple models according to choice
 - Display tokens used and word count of summary generated
 
+## Architecture of the app
+
+<img src="architecture.jpg" width="75%">
+
 ## Demo
 
 You can try the live demo on [Streamlit Cloud](https://llm-based-text-summarizer.streamlit.app/).
