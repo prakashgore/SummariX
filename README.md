@@ -1,5 +1,5 @@
 # SummariX
-📝 SummariX is a Multilingual Text Summarizer application that summarizes text, PDFs in multiple languages using large language model (LLM) and Huggingface online API. We used a pre-trained T5 model and its tokenizer from Hugging Face Transformers library and more hugging face summerization models API.
+📝 SummariX is a Multilingual Text Summarizer application that summarizes text, PDFs in multiple languages using large language model (LLM) and Huggingface online API. We used a pre-trained  models and its tokenizer from Hugging Face Transformers library and more hugging face summerization models API.
 
 ## Features
 
