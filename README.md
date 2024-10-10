@@ -40,7 +40,7 @@ We used below Hugging Face open source models which are specifice to text summar
 
     ```sh
     git clone https://github.com/prakashgore/SummariX.git
-    cd LLM-Based-Text-Summarizer
+    cd SummariX
     ```
 
 2. **Create and activate a virtual environment:**
@@ -62,19 +62,6 @@ We used below Hugging Face open source models which are specifice to text summar
     streamlit run app.py
     ```
 
-### Docker
-
-1. **Pull the Docker image:**
-
-    ```sh
-    docker pull yamin69/summarizer:latest
-    ```
-
-2. **Run the Docker container:**
-
-    ```sh
-    docker run -p 8501:8501 yamin69/summarizer:latest
-    ```
 
 ## Usage
 
