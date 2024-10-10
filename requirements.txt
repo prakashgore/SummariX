@@ -8,4 +8,4 @@ sentencepiece
 googletrans
 requests
 tensorflow
-pytorch
+torch
