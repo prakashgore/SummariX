@@ -71,7 +71,8 @@ We used below Hugging Face open source models which are specifice to text summar
     - Upload File (PDF, TXT, Image)
 3. **Enter or upload your content.**
 4. **Optionally add prompts to refine the summary.**
-5. **Click "Generate Summary" to get the summarized text.**
+5. **Select Required Models**
+6. **Click "Generate Summary" to get the summarized text.**
 
 ## License
 
