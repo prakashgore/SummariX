@@ -7,3 +7,5 @@ numpy
 sentencepiece
 googletrans
 requests
+tensorflow
+pytorch
