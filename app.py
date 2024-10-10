@@ -171,7 +171,7 @@ def count_words(text):
  
 # Streamlit UI
 st.title("📝 SummariX")
-st.write("**Welcome to the multilingual text summarizer!** Enter your text directly or upload a text/PDF/image file below.")
+st.write("**Welcome to the multilingual text summarizer!** Enter your text directly or upload a text/PDF file below.")
  
 st.sidebar.write("### Input Method")
 input_method = st.sidebar.radio("Choose input method:", ("Direct Text Input", "Upload File (PDF, TXT)"))
