@@ -65,7 +65,7 @@ We used below Hugging Face open source models which are specifice to text summar
 
 ## Usage
 
-1. **Navigate to the app URL.**
+1. **Navigate to the app URL [Try SummariX](https://summarix.streamlit.app/).**
 2. **Choose an input method:**
     - Direct Text Input
     - Upload File (PDF, TXT, Image)
@@ -81,6 +81,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [Streamlit](https://streamlit.io)
 - [Hugging Face](https://huggingface.co)
-- [EasyOCR](https://github.com/JaidedAI/EasyOCR)
+
 
 
