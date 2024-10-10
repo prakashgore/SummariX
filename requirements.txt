@@ -10,3 +10,4 @@ requests
 tensorflow
 torch
 tf-keras==2.17.0
+googletrans==4.0.0-rc1
