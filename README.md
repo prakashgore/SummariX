@@ -13,7 +13,7 @@
 
 ## Architecture of the app
 
-<img src="architecture.jpg" width="80%">
+<img src="architecture1.jpg" width="80%">
 
 
 ## Demo
