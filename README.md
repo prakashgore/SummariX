@@ -28,7 +28,8 @@ We used below Hugging Face open source models which are specifice to text summar
 4. distilbart-cnn-12-6
 5. bart-large-cnn-samsum
 6. google/pegasus-cnn_dailymail
-7. T5 transformer Model
+7. Falcon AI
+
 
 
 
