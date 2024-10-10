@@ -5,3 +5,5 @@ langdetect
 Pillow
 numpy
 sentencepiece
+googletrans
+requests
