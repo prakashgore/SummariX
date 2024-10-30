@@ -4,7 +4,7 @@
 ## Features
 
 - Summarize text input directly
-- Summarize content from uploaded PDF, TXT, and image files
+- Summarize content from uploaded PDF and Doc Files
 - Summarize the content from the Images
 - Summarize the content from YouTube Video
 - Detect and handle multiple languages
