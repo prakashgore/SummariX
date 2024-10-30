@@ -5,6 +5,8 @@
 
 - Summarize text input directly
 - Summarize content from uploaded PDF, TXT, and image files
+- Summarize the content from the Images
+- Summarize the content from YouTube Video
 - Detect and handle multiple languages
 - Translate summarized text to English
 - Chat-like prompt system for refining summaries
@@ -69,15 +71,13 @@ We used below Hugging Face open source models which are specifice to text summar
 1. **Navigate to the app URL [Try SummariX](https://summarix.streamlit.app/).**
 2. **Choose an input method:**
     - Direct Text Input
-    - Upload File (PDF, TXT, Image)
+    - Upload File (PDF, TXT)
+    - Upload Image (jpeg,jpg and png)
+    - Provide Youtube Video URL
 3. **Enter or upload your content.**
 4. **Optionally add prompts to refine the summary.**
 5. **Select Required Models**
 6. **Click "Generate Summary" to get the summarized text.**
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
